@@ -1,1 +1,1 @@
-# Advancing_Regulatory_Intelligence_with_Conversational_and_Generative_AI
+Presentation at PharmsSUG 2024
